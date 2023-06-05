@@ -38,7 +38,7 @@ O projeto foi feito utilizando das seguintes tecnologias:
 
 ## Acessar pokedex
 
-Segue o link para acessar o projeto: [Pokédex](https://pokedex-marcelones.vercel.app/)
+Segue o link para acessar o projeto: [Pokédex](https://pokedex-santana.vercel.app/)
 
 ---
 
